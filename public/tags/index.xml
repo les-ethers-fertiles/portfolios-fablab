@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Léa Jean</title>
-    <link>/tags/</link>
+    <link>/portfolios/exemple2/tags/</link>
     <description>Recent content in Tags on Léa Jean</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/portfolios/exemple2/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Source Themes</title>
-      <link>/tags/source-themes/</link>
+      <link>/portfolios/exemple2/tags/source-themes/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/source-themes/</guid>
+      <guid>/portfolios/exemple2/tags/source-themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Learning</title>
-      <link>/tags/deep-learning/</link>
+      <link>/portfolios/exemple2/tags/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tags/deep-learning/</guid>
+      <guid>/portfolios/exemple2/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demo</title>
-      <link>/tags/demo/</link>
+      <link>/portfolios/exemple2/tags/demo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tags/demo/</guid>
+      <guid>/portfolios/exemple2/tags/demo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>human</title>
-      <link>/tags/human/</link>
+      <link>/portfolios/exemple2/tags/human/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tags/human/</guid>
+      <guid>/portfolios/exemple2/tags/human/</guid>
       <description></description>
     </item>
     
     <item>
       <title>robotics</title>
-      <link>/tags/robotics/</link>
+      <link>/portfolios/exemple2/tags/robotics/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tags/robotics/</guid>
+      <guid>/portfolios/exemple2/tags/robotics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>academia</title>
-      <link>/tags/academia/</link>
+      <link>/portfolios/exemple2/tags/academia/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tags/academia/</guid>
+      <guid>/portfolios/exemple2/tags/academia/</guid>
       <description></description>
     </item>
     

@@ -2,144 +2,144 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/courses/example/example1/</loc>
+    <loc>/portfolios/exemple2/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>/courses/example.1/example3/</loc>
+    <loc>/portfolios/exemple2/courses/example.1/example3/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>/courses/example.2/example3/</loc>
+    <loc>/portfolios/exemple2/courses/example.2/example3/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>/courses/example.1/</loc>
+    <loc>/portfolios/exemple2/courses/example.1/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/courses/example.2/</loc>
+    <loc>/portfolios/exemple2/courses/example.2/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/courses/example/</loc>
+    <loc>/portfolios/exemple2/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/courses/example.2/example4/</loc>
+    <loc>/portfolios/exemple2/courses/example.2/example4/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>/courses/example/example2/</loc>
+    <loc>/portfolios/exemple2/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>/courses/example.1/example4/</loc>
+    <loc>/portfolios/exemple2/courses/example.1/example4/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>/talk/coding/</loc>
+    <loc>/portfolios/exemple2/talk/coding/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>/portfolios/exemple2/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>/talk/qualitative/</loc>
+    <loc>/portfolios/exemple2/talk/qualitative/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>/talk/</loc>
+    <loc>/portfolios/exemple2/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>/talk/synthesizing/</loc>
+    <loc>/portfolios/exemple2/talk/synthesizing/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>/courses/</loc>
+    <loc>/portfolios/exemple2/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>/authors/admin/</loc>
+    <loc>/portfolios/exemple2/authors/admin/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication_types/3/</loc>
+    <loc>/portfolios/exemple2/publication_types/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/preprint/</loc>
+    <loc>/portfolios/exemple2/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/</loc>
+    <loc>/portfolios/exemple2/authors/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication_types/</loc>
+    <loc>/portfolios/exemple2/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/</loc>
+    <loc>/portfolios/exemple2/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/source-themes/</loc>
+    <loc>/portfolios/exemple2/tags/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>/portfolios/exemple2/tags/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/jupyter/</loc>
+    <loc>/portfolios/exemple2/post/jupyter/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/</loc>
+    <loc>/portfolios/exemple2/post/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/slides/</loc>
+    <loc>/portfolios/exemple2/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/slides/example/</loc>
+    <loc>/portfolios/exemple2/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/artificial-intelligence/</loc>
+    <loc>/portfolios/exemple2/project/artificial-intelligence/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/deep-learning/</loc>
+    <loc>/portfolios/exemple2/tags/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/deep-learning/</loc>
+    <loc>/portfolios/exemple2/project/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/demo/</loc>
+    <loc>/portfolios/exemple2/tags/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/external-project/</loc>
+    <loc>/portfolios/exemple2/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/human/</loc>
+    <loc>/portfolios/exemple2/tags/human/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/internal-project/</loc>
+    <loc>/portfolios/exemple2/project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/</loc>
+    <loc>/portfolios/exemple2/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/robotics/</loc>
+    <loc>/portfolios/exemple2/project/robotics/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/robotics/</loc>
+    <loc>/portfolios/exemple2/tags/robotics/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/skin-cancer-ai/</loc>
+    <loc>/portfolios/exemple2/project/skin-cancer-ai/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/snail/</loc>
+    <loc>/portfolios/exemple2/post/snail/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/academia/</loc>
+    <loc>/portfolios/exemple2/tags/academia/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/getting-started/</loc>
+    <loc>/portfolios/exemple2/post/getting-started/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication_types/2/</loc>
+    <loc>/portfolios/exemple2/publication_types/2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/journal-article/</loc>
+    <loc>/portfolios/exemple2/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/robert-ford/</loc>
+    <loc>/portfolios/exemple2/authors/robert-ford/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication_types/1/</loc>
+    <loc>/portfolios/exemple2/publication_types/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/conference-paper/</loc>
+    <loc>/portfolios/exemple2/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>/portfolios/exemple2/categories/</loc>
   </url>
 </urlset>
